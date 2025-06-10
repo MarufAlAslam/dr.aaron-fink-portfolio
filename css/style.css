@@ -88,21 +88,25 @@ ul.navbar-nav {
     color: #2d5376;
 }
 
-.fs-12{
+.fs-12 {
     font-size: 12px;
 }
 
-.footer{
+.footer {
     background-image: url("../img/bg-footer.gif");
     background-repeat: repeat-x;
     background-size: contain;
     background-position: top;
 }
 
-.text-yellow{
+.text-yellow {
     color: #d3ceb0;
 }
 
-.fs-11{
+.fs-11 {
     font-size: 11px;
+}
+
+.border-left {
+    border-left: 2px solid #609bd2;
 }
