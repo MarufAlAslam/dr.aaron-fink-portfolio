@@ -71,9 +71,21 @@ ul.navbar-nav,
     background-color: #285f86;
 }
 
-.dropdown-item{
+.dropdown-item {
     font-size: 14px;
     color: white !important;
+}
+
+.modal-title.fs-14 {
+    font-size: 14px !important;
+}
+
+.modal-dialog button.btn-close {
+    font-size: 14px;
+}
+
+.modal-header {
+    background-color: #87B6D9;
 }
 
 @media screen and (min-width: 992px) {
