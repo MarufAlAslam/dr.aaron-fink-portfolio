@@ -210,4 +210,12 @@ a {
         flex-wrap: wrap;
         gap: 5px 20px !important;
     }
+
+    .services .row.g-4 {
+        --bs-gutter-y: 0;
+    }
+
+    .text.d-flex.flex-column {
+        max-width: 90%;
+    }
 }
